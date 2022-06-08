@@ -25,6 +25,6 @@
 
 - Implement [PPO](https://arxiv.org/abs/1707.06347) and train on BipedWalker-v3, HopperPyBulletEnv-v0 ([pybullet](https://pybullet.org/wordpress/) and [pybulletgym](https://github.com/benelot/pybullet-gym) required) and Humanoid-v4 ([mujoco](https://www.gymlibrary.ml/environments/mujoco/) required).
 
-- For Humanoid-v4, the first 47 dimensions of the observation space is fed into the network.
+- For Humanoid-v4, the first 47 dimensions of the observation space are fed into the network.
 
   
