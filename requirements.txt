@@ -1,0 +1,6 @@
+gym==0.24.0
+numpy==1.20.3
+pybullet==3.2.1
+pybulletgym.egg==info
+tensorboardX==2.5.1
+torch==1.11.0

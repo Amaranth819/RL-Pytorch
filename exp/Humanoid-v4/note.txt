@@ -1,0 +1,1 @@
+The original observation space is 376-dimensional. In my experiments only the first 47 dimensions are fed into the network.
