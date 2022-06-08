@@ -16,8 +16,8 @@
 #### Usage
 
 - Install the prerequisites `pip install -r requirements.txt`
-- To train a model, modify train.py.
-- To evaluate a model, modify eval.py.
+- To train a model, modify train.py and run it.
+- To evaluate a model, modify eval.py and run it.
 
 
 
